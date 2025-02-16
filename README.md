@@ -62,9 +62,13 @@ http://127.0.0.1:5000/
 
 Usage
 
-Register: Create an account by providing a username, password, and contact information (email or phone number).
+Register:
 
-Login: Enter your username and password.
+Create an account by providing a username, password, and contact information (email or phone number).
+
+Login:
+
+Enter your username and password.
 
 OTP Verification:
 
@@ -72,7 +76,9 @@ If an email is provided, an OTP will be sent via email.
 
 If a phone number (starting with +) is provided, an OTP will be sent via SMS using Twilio.
 
-Access Success Page: If the OTP is correct, the user is redirected to the success page.
+Access Success Page:
+
+If the OTP is correct, the user is redirected to the success page.
 
 Security Considerations
 
