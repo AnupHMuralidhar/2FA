@@ -25,8 +25,8 @@ twilio
 Setup
 Clone the repository:
 ```
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/AnupHMuralidhar/2FA.git
+cd 2FA
 ```
 Configure environment variables:
 Update the following placeholders in the script:
